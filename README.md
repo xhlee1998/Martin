@@ -1,2 +1,2 @@
 # Martin
-mathematical ecoomics
+mathematical economics
